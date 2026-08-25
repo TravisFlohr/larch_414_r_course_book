@@ -1,0 +1,58 @@
+```{r}
+#| label: setup
+#| include: false
+current_year <- format(Sys.Date(), "%Y")
+```
+
+![Put picture caption here. Source: Travis Flohr](images/00_cover_image.jpg){fig-alt="Put alt text here.,"}
+
+# Syllabus {.unnumbered}
+
+## Course Information
+
+### Meeting Times
+
+Tuesday and Thursday, Put time frame here PM
+
+### Location(s)
+
+Classroom: Classroom information here.
+<br>
+Project Site: Put project site information here.
+<be>
+
+```{r class room map}
+#| warning: false
+#| echo: false
+#| message: false
+
+# call and run script for class room building location
+source("boilerplate/00_classroom_map.R")
+
+map_classroom
+```
+
+### Faculty
+
+Travis Flohr, Ph.D., [tlf159\@psu.edu](mailto:tlf159@psu.edu), 419 SFB, office hours by appointment.
+
+### Credits - update below here.
+
+3-credits
+
+### Course Costs
+We have tried to keep course costs to a minimum. Feel free to leverage your existing supplies (e.g., pens, pencils, erasers, and pencil sharpeners). Still, @tbl-course_costs is our best estimate of course costs based on past course experiences. You may use markers or pens other than those listed below; the key is being able to draw botanical illustrations and take field notes.
+
+| Materials and Supplies                         | Total Costs |
+|:------------------------------------------------|-------:|
+| Field Journal                                   | $25.00 |
+| Fineliner Technical Pens or Sharpies            | $15.00 |
+| Graphite Pencil Set, with multiple 3+ hardnesses| $10.00 |
+| Pencil Sharpener                                | $2.00  |
+| ***Total Costs***                               | ***$52.00*** |
+
+: Estimated course costs. {#tbl-course_costs}
+
+** Disclaimer. Prices are as accurate as those provided in the summer of Published in `{r} current_year`.
+
+Please feel free to express yourself artistically with supplies other than those listed above. For example, you can embellish your botanical illustrations with colored pencils, markers, and/or watercolors (embellishments are not required, but good drawing is). 
