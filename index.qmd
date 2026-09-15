@@ -62,3 +62,37 @@ I have tried to keep course costs to a minimum. Feel free to leverage your exist
 ** Disclaimer. Prices are as accurate as those provided in the summer of Published in `{r} current_year`.
 
 Please feel free to express yourself artistically with supplies other than those listed above.
+
+
+
+
+
+
+
+# Text to integrate below
+
+LARCH 414: Planting Design for Ecological Performance – Course Proposal
+
+Spring Semester to coincide with ongoing Arboretum Planning and OPP schedules.
+Course Description
+LARCH 414: Planting Design for Ecological Performance is an advanced studio focused on integrating planting design and methods to achieve net biodiversity gain in institutional and public landscapes. The studio is aligned with Penn State’s Sustainable Landscape Implementation Plan (SLIP). It parallels the American Society of Landscape Architects’ Climate & Biodiversity Action Plan (2026–2030), emphasizing biodiversity, climate resilience, and measurable landscape performance. 
+The studio prioritizes plant–insect–pollinator interactions, ecological function, and long-term landscape stewardship. The studio places equal emphasis on implementation, visualization, and professional communication to ensure ecological design intent is accessible to institutional clients and non-specialist stakeholders. Students will work with Penn State’s Office of Physical Plant to create designs for SLIP donor fundraising that can be implemented in the future and engage with content experts at Penn State’s Arboretum, Center for Pollinator Research, Huck Institute, and Landscape Contracting.
+Course Justification
+LARCH 414 addresses emerging professional expectations for performance-based, ecologically grounded landscape architecture practice. ASLA’s Climate & Biodiversity Action Plan (2026–2030) identifies biodiversity protection, restoration, and measurable outcomes—such as net biodiversity gain—as core professional responsibilities. This studio equips students with the skills needed to meet these expectations while reinforcing Penn State’s commitment to sustainable, biodiverse campus landscapes.
+The course strengthens alignment with LAAB accreditation requirements, particularly in planting design, ecological systems, technical documentation, and professional communication. By integrating real-world campus conditions with professional standards, the course prepares students for contemporary practice.
+Studio Learning Outcomes
+• Design planting systems that achieve net biodiversity gain.
+• Integrate plant–insect–pollinator interactions into planting design.
+• Apply planting methods that ensure long-term landscape performance.
+• Evaluate and communicate landscape performance outcomes.
+• Produce clear, persuasive client-facing graphics and narratives.
+LAAB Accreditation Alignment
+The studio supports LAAB learning outcomes related to natural and cultural systems, plant materials, technical skills, professional communication, and contemporary practice issues, with emphasis on ecological performance and planting implementation.
+Technology and Visualization Skills
+Students will gain proficiency in:
+• GIS for ecological and spatial analysis
+• AutoCAD for planting plans and technical documentation
+• Rhino for three-dimensional modeling
+• Twinmotion for real-time rendering and visualization
+• AI image generation tools for conceptual visualization and early design communication
+
