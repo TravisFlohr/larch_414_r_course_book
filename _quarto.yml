@@ -1,17 +1,18 @@
 project:
   type: book
   output-dir: docs
-  resources: 
-    -slides/**
-  pre-render: 
-  - bash setup_submodules.sh
+  # resources: 
+  #   -slides/**
+  # pre-render: 
+  # - bash setup_submodules.sh
 
 book:
-  title: "Larch 414: Put rest of title here (Fall 2027)"
+  title: "Larch 414: Planting Design for Ecological Performance (Spring 2027)"
   author: "Travis Flohr, Ph.D."
   date: "01/01/2027"
   chapters:
     - index.qmd
+    - 01_core_plant_concepts.qmd
 
   sidebar:
     title: Larch 414 Course Content

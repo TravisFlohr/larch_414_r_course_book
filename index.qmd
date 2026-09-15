@@ -4,7 +4,7 @@
 current_year <- format(Sys.Date(), "%Y")
 ```
 
-![Put picture caption here. Source: Travis Flohr](images/00_cover_image.jpg){fig-alt="Put alt text here.,"}
+![Put picture caption here. Source: Travis Flohr](images/00_cover_image.jpg){fig-alt="Put alt text here."}
 
 # Syllabus {.unnumbered}
 
@@ -12,14 +12,15 @@ current_year <- format(Sys.Date(), "%Y")
 
 ### Meeting Times
 
-Tuesday and Thursday, Put time frame here PM
+Tuesday and Thursday, [2:30-5:30 PM]{style="background-color: yellow;"}
 
 ### Location(s)
 
-Classroom: Classroom information here.
+**Classroom**: 4th Floor Studio.
 <br>
-Project Site: Put project site information here.
-<be>
+
+![**Project Site**: East and West pedestrian mall from Shortlidge Road to Paterno Library. Source: Travis Flohr](images/study_site.png){fig-alt="An aerial map of a campus section of Penn State showing Curtin Road to the north and Shortlidge Road to the east. The map uses a selective color effect: the surrounding buildings and roads are in grayscale, while a central horizontal swath of landscaping is highlighted in full color. This green corridor features large lawns, mature trees, and curved walkways, and is situated south of the Weaver, Armsby, and Arts Cottage buildings, and north of the Frear North, Althouse Laboratory, and Chemical and Biomedical Engineering buildings."}
+
 
 ```{r class room map}
 #| warning: false
@@ -27,32 +28,37 @@ Project Site: Put project site information here.
 #| message: false
 
 # call and run script for class room building location
-source("boilerplate/00_classroom_map.R")
+# source("boilerplate/00_classroom_map.R")
 
-map_classroom
+# map_classroom
 ```
 
 ### Faculty
 
 Travis Flohr, Ph.D., [tlf159\@psu.edu](mailto:tlf159@psu.edu), 419 SFB, office hours by appointment.
 
-### Credits - update below here.
+### Credits
 
-3-credits
+5-credits
 
 ### Course Costs
-We have tried to keep course costs to a minimum. Feel free to leverage your existing supplies (e.g., pens, pencils, erasers, and pencil sharpeners). Still, @tbl-course_costs is our best estimate of course costs based on past course experiences. You may use markers or pens other than those listed below; the key is being able to draw botanical illustrations and take field notes.
+I have tried to keep course costs to a minimum. Feel free to leverage your existing supplies (e.g., pens, pencils, erasers, and pencil sharpeners). Still, @tbl-course_costs is our best estimate of course costs based on past course experiences. You may use markers or pens other than those listed below; the key is being able to produce the work that is required of you. However, note that exact costs may vary depending on the extent of your plant lists when printing for review. You may use markers or pens than other from those listed below; the key is to quickly create conceptual drawings with three to four distinctly different line weights. 
 
-| Materials and Supplies                         | Total Costs |
+| Materials and Supplies                          | Total Costs |
 |:------------------------------------------------|-------:|
-| Field Journal                                   | $25.00 |
-| Fineliner Technical Pens or Sharpies            | $15.00 |
-| Graphite Pencil Set, with multiple 3+ hardnesses| $10.00 |
-| Pencil Sharpener                                | $2.00  |
-| ***Total Costs***                               | ***$52.00*** |
+| *Materials and Supplies*                          |        |
+| Field Journal                                    | $25.00 |
+| Fine Liner Technical Pens or Sharpies            | $15.00 |
+| Graphite Pencil Set, with multiple (3+) hardness's| $10.00 |
+| Pencil Sharpener                                  | $2.00  |
+| 1 roll of 24" trace                               | $20.00 |
+| *Printing*                                        |        |
+| 11” x 17” (Tabloid) Black and White Plant Lists, 20 sheets (single-sided) * $0.17 | $3.40 |
+| 24” x 26” (Arch D) Black and White Base Maps, 2 sheets (single-sided) * $18.00    | $36.00 |
+| ***Total Costs***                                                          | ***$111.40*** |
 
 : Estimated course costs. {#tbl-course_costs}
 
 ** Disclaimer. Prices are as accurate as those provided in the summer of Published in `{r} current_year`.
 
-Please feel free to express yourself artistically with supplies other than those listed above. For example, you can embellish your botanical illustrations with colored pencils, markers, and/or watercolors (embellishments are not required, but good drawing is). 
+Please feel free to express yourself artistically with supplies other than those listed above.
