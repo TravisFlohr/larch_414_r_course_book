@@ -49,3 +49,17 @@ po/*~
 rsconnect/
 
 /.quarto/
+
+# Travis added items to ignore
+# Macfiles
+.DS_Store
+
+# Environment file with database information
+.env
+
+/.quarto/
+.DS_Store
+.DS_Store
+
+# Large images
+images/

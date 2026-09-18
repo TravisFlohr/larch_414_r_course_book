@@ -22,7 +22,7 @@ current_year <- format(Sys.Date(), "%Y")
     <!-- Slide 1 -->
     <div class="carousel-item active">
       <!-- 1. Alt text added directly inside the img tag for screen readers -->
-      <img src="images/donna_becker_bees_drinking_water.jpg" alt="A photograph of bees on rocks drinking from flowing water." class="d-block w-100">
+      <img src="images/donna_becker_bees_drinking_water.jpg" alt="Two honey bees perched on a smooth, partially submerged stone, drinking from a calm, shallow body of water. The bees and stone are clearly reflected in the water's surface, illustrating a micro-habitat that provides a safe, accessible watering source for local pollinators." class="d-block w-100">
       
       <!-- 2. Caption shifted below the image using padding (pt-3) and styled with black text (text-dark) -->
       <div class="text-start text-dark pt-3">
@@ -32,7 +32,7 @@ current_year <- format(Sys.Date(), "%Y")
     
     <!-- Slide 2 -->
     <div class="carousel-item">
-      <img src="images/Gemini_Generated_Image_flohr.jpg" alt="Second Slide" class="d-block w-100">
+      <img src="images/Gemini_Generated_Image_flohr.jpg" alt="Aerial view of a linear urban pocket park designed for stormwater management. A central, rock-lined bioswale runs the length of the space, defined by angular Corten steel edging. Meandering decomposed granite paths parallel the swale, featuring integrated wooden bench seating. The naturalistic planting palette includes drifts of ornamental grasses, purple coneflowers, and young deciduous trees, creating a soft ecological contrast to the surrounding brick and concrete mid-rise buildings." class="d-block w-100">
 
       <div class="text-start text-dark pt-3">
         <p class="mb-0">Ecologically performant pocket park. Source: Travis Flohr/Gemini</p>
@@ -41,7 +41,7 @@ current_year <- format(Sys.Date(), "%Y")
 
         <!-- Slide 3 -->
     <div class="carousel-item">
-      <img src="images/Butterflyweed_factcards.png" alt="Third Slide" class="d-block w-100">
+      <img src="images/Butterflyweed_factcards.png" alt="Plant species profile card for Butterfly milkweed (Asclepias tuberosa). The graphic includes two photos of the plant's vibrant orange flower clusters supporting a foraging bee and a butterfly. The card details the following site requirements and characteristics: Type: Herb/Flower (Forb). Bloom Phenology: May through September. Growing Conditions: Size is 1 to 2 feet tall and 1 to 1.5 feet wide; Light Requirements: Full sun, Partial shade; Soil pH: 4.8 to 6.8; Soil Moisture: Dry, Moist; USDA Hardiness Zones: 3a to 9b. Tolerances: Deer, Drought, Erosion, Rabbits, Salt. Ecological Value: Attracts Bees, Butterflies, Pollinators, Hummingbirds, Songbirds, and Specialized Bees." class="d-block w-100">
 
       <div class="text-start text-dark pt-3">
         <p class="mb-0">Foraging bee on a Butterfly Milkweed and a Butterfly Milkweed plant fact card. Source: Travis Flohr</p>
@@ -125,36 +125,74 @@ I have tried to keep course costs to a minimum. Feel free to leverage your exist
 
 Please feel free to express yourself artistically with supplies other than those listed above.
 
+#### Software
+We will experiment and use a wide array of hand drawing and software tools through out an iterative planting design process, including but not limited to: Excel, Rhino, AutoCAD, Photoshop, Twinmotion, Lumion, and AI.
 
+#### Personal Technology
+This course requires extensive computer work that sometimes builds on previous projects throughout the semester. Lost data due to hard drive crashes, accidental deletions, corruption, etc., is bound to happen; however, the student must ensure they have backup copies of their work. Students should use their existing external hard drive or flash drive when working on personal, lab, or loaner computers, and maintain a working and a backup copy of all files when working on university-owned machines via remote access. We will cover strategies for backing up your data on the first day of class. We recommend backing up your data at least once per week.
 
+If you already have an external hard drive or USB flash drive, feel free to continue using it as long as you have enough free space for it to work. We recommend purchasing at least a 1 TB Drive with a USB 3 connection if you need a hard drive. Your drive must be formatted for Windows. If you have questions regarding these requirements, please ask. Your previous drives from Larch 216/816 should be sufficient.
 
+## Course Description and Objectives
 
+Planting Design for Ecological Performance is an advanced studio focused on integrating planting design and methods to achieve net biodiversity gain in institutional and public landscapes. The studio is aligned with Penn State’s Sustainable Landscape Implementation Plan (SLIP). It parallels the American Society of Landscape Architects’ Climate & Biodiversity Action Plan (2026–2030), emphasizing biodiversity, climate resilience, and measurable landscape performance. 
 
+The studio prioritizes plant–insect–pollinator interactions, ecological function, and long-term landscape stewardship. The studio places equal emphasis on professional communication, visualization, design, and implementation, to ensure ecological design intent is accessible to institutional clients and non-specialist stakeholders. Students will work with Penn State’s Office of Physical Plant to create designs for SLIP donor fundraising that can be implemented in the future and engage with content experts at Penn State’s Arboretum, Center for Pollinator Research, Huck Institute, and Landscape Contracting.
 
-# Text to integrate below
+This studio addresses emerging professional expectations for performance-based, ecologically grounded landscape architecture practice. ASLA’s Climate & Biodiversity Action Plan (2026–2030) identifies biodiversity protection, restoration, and measurable outcomes—such as net biodiversity gain—as core professional responsibilities. This studio equips students with the skills needed to meet these expectations while reinforcing Penn State’s commitment to sustainable, biodiverse campus landscapes. Additionally, this course strengthens our alignment with LAAB's professional accreditation requirements, particularly in planting design, ecological systems, technical documentation, and professional communication. By integrating real-world campus conditions with professional standards, the course prepares students for contemporary practice.
 
-LARCH 414: Planting Design for Ecological Performance – Course Proposal
+### Studio Learning Outcomes
 
-Spring Semester to coincide with ongoing Arboretum Planning and OPP schedules.
-Course Description
-LARCH 414: Planting Design for Ecological Performance is an advanced studio focused on integrating planting design and methods to achieve net biodiversity gain in institutional and public landscapes. The studio is aligned with Penn State’s Sustainable Landscape Implementation Plan (SLIP). It parallels the American Society of Landscape Architects’ Climate & Biodiversity Action Plan (2026–2030), emphasizing biodiversity, climate resilience, and measurable landscape performance. 
-The studio prioritizes plant–insect–pollinator interactions, ecological function, and long-term landscape stewardship. The studio places equal emphasis on implementation, visualization, and professional communication to ensure ecological design intent is accessible to institutional clients and non-specialist stakeholders. Students will work with Penn State’s Office of Physical Plant to create designs for SLIP donor fundraising that can be implemented in the future and engage with content experts at Penn State’s Arboretum, Center for Pollinator Research, Huck Institute, and Landscape Contracting.
-Course Justification
-LARCH 414 addresses emerging professional expectations for performance-based, ecologically grounded landscape architecture practice. ASLA’s Climate & Biodiversity Action Plan (2026–2030) identifies biodiversity protection, restoration, and measurable outcomes—such as net biodiversity gain—as core professional responsibilities. This studio equips students with the skills needed to meet these expectations while reinforcing Penn State’s commitment to sustainable, biodiverse campus landscapes.
-The course strengthens alignment with LAAB accreditation requirements, particularly in planting design, ecological systems, technical documentation, and professional communication. By integrating real-world campus conditions with professional standards, the course prepares students for contemporary practice.
-Studio Learning Outcomes
-• Design planting systems that achieve net biodiversity gain.
-• Integrate plant–insect–pollinator interactions into planting design.
-• Apply planting methods that ensure long-term landscape performance.
-• Evaluate and communicate landscape performance outcomes.
-• Produce clear, persuasive client-facing graphics and narratives.
-LAAB Accreditation Alignment
+- Design layered and ecologically robust planting systems that achieve net biodiversity gain.
+- Integrate plant–insect–pollinator-bird interactions into planting design.
+- Apply planting methods that ensure long-term landscape performance.
+- Evaluate and communicate landscape performance outcomes.
+- Produce clear, persuasive client-facing graphics and narratives.
+
+### LAAB Accreditation Alignment
+
 The studio supports LAAB learning outcomes related to natural and cultural systems, plant materials, technical skills, professional communication, and contemporary practice issues, with emphasis on ecological performance and planting implementation.
-Technology and Visualization Skills
-Students will gain proficiency in:
-• GIS for ecological and spatial analysis
-• AutoCAD for planting plans and technical documentation
-• Rhino for three-dimensional modeling
-• Twinmotion for real-time rendering and visualization
-• AI image generation tools for conceptual visualization and early design communication
 
+Students will gain proficiency in:
+
+- GIS for ecological and spatial analysis
+- AI image generation tools for conceptual visualization and early design communication
+- Rhino for three-dimensional modeling
+- Twinmotion for real-time rendering and visualization
+- AutoCAD for planting plans and technical documentation
+
+## Course Structure 
+Learning theory strongly advises blending several approaches to build knowledge. As such we will interweave multiple learning formats: site visits, lectures, demonstrations, workshops, pin-ups, and one-on-one desk critiques. 
+
+## Evaluation and Grade Allocation
+This course has a total of [x]{style="background-color: yellow;"} modules, details are provided below @tbl-module_values. Details for each graded deliverable will be provided within individual deliverable statements.
+
+[update the chart below for this class]{style="background-color: yellow;"}
+
+### Assignment Grade Details
+
+| Module                             | Value            |
+|:-----------------------------------|:-----------------|
+| ***Module 1: Site Analyses***                     | 10 points        |
+| ***Module 2: Pollinator Garden***                 |                  |
+| 2a. Pollinator Garden Plant List/Design Check-off | 15 points        |
+| 2b. Pollinator Garden Technical Planting Plan/Schedule | 30 points   |
+| ***Module 3. Technical Treed Plaza Plan and Details*** | 60 points   |
+| ***Module 4. Planted Meadow Ecosystems***              |             |
+| 4a. Meadow Concept and Palette                         | 30 points   |
+| 4b. Technical Meadow Plan, Schedules, and Establishment Notes | 30 points|
+| Engagement - steady participation, progress, attendance, and preparation| 10 points |
+| ***Total***                                            | ***185 points*** |
+
+: Outline of course modules and their associated point values. {#tbl-module_values}
+
+### Grading Rubric and Scale
+<!-- 00_grading_scale.qmd -->
+
+{{< include boilerplate/00_grading_scale.qmd >}}
+
+## Course Policies
+
+<!-- 00_policies_resources.qmd -->
+
+{{< include boilerplate/00_policies_resources.qmd >}}
