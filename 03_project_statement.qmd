@@ -1,0 +1,9 @@
+# Project Assignment Statement (semester-long phased project)
+
+[Travis to get a new photo and add it below.]{style="background-color: yellow;"}
+
+![Previous students' work sample. Source: Travis Flohr](images/04_statement_cover.png){#fig-example_journal_entry fig-alt="Presentation slide for a site inventory and analysis divided into Uses and Microclimate. The Uses section features a diagram of on-site activities (such as walking, biking, and campus events), a color-coded map of surrounding land uses (academic, residential, and recreational), and a note that the site was formerly used for parking and tennis courts. The Microclimate section displays two 3D models illustrating the building shadows cast on the site at 9:00 a.m. and noon." fig-align="center" width=100%}
+
+## Overview
+
+[Travis will add the rest of the content below here.]{style="background-color: yellow;"}

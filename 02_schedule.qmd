@@ -1,0 +1,12 @@
+# Course Schedule {#sec-course_schedule}
+
+All relevant course dates and critical milestones or submissions are outlined in the calendar below. 
+
+**Legend**
+L - Lecture, I - Introduction, S - Submission, and W - Work time.
+
+[Travis to create the google calendar and add below, once the assignment and schedule is done.]{style="background-color: yellow;"}
+
+<!-- ```{=html}
+<iframe src="https://calendar.google.com/calendar/embed?src=85f6ffdb5002284f9c53efad37734928aba18c393de7638add02357c6764bcab%40group.calendar.google.com&ctz=America%2FNew_York" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="yes"></iframe>
+``` -->
