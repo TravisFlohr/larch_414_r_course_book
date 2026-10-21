@@ -5,5 +5,115 @@
 ![Previous students' work sample. Source: Travis Flohr](images/04_statement_cover.png){#fig-example_journal_entry fig-alt="Presentation slide for a site inventory and analysis divided into Uses and Microclimate. The Uses section features a diagram of on-site activities (such as walking, biking, and campus events), a color-coded map of surrounding land uses (academic, residential, and recreational), and a note that the site was formerly used for parking and tennis courts. The Microclimate section displays two 3D models illustrating the building shadows cast on the site at 9:00 a.m. and noon." fig-align="center" width=100%}
 
 ## Overview
+Design an ecologically appropriate planting design for Penn State’s Shortlidge to Paterno Library Pedestrian Mall (a high-visibility, high-traffic campus corridor) that achieves **net biodiversity gain through ecological function**, not aesthetics. Your design must:
 
-[Travis will add the rest of the content below here.]{style="background-color: yellow;"}
+- Prioritize **plant–insect–pollinator–bird interactions** across all life cycles (i.e., nesting, foraging, water access).
+- Ensure **long-term resilience** via site-appropriate plant communities (using site analysis data).
+- Be **client-ready** for SLIP donor fundraising (accessible to non-specialists; e.g., donors, campus sustainability, OPP).
+- **Explicitly align** with ASLA’s Climate & Biodiversity Action Plan (2026–2030) and Penn State’s SLIP.
+
+## Point Value
+100 points
+
+## Deliverables
+All deliverables must include ecological justification, client-facing visuals, and technical documentation.
+
+## Due Dates
+Note: Due dates are documented within the [course schedule](02_schedule.qmd). 
+
+### Pollinator and Bird Life Cycle Mapping
+**Task**: As a class we will develop templates for the fact cards. You will use physical fact cards + colored strings to map connections (nesting, foraging, water) across the life cycle of birds and pollinators. For pollinators you must insure you are mapping to all three life cycles. Integrate guest lecture insights.
+
+**Deliverable**: Annotated physical food web + 1-page analysis of ecological gaps (e.g., "No cavity-nesting bees in current site"). 
+
+[Travis will review and add additional content as needed to this section.]{style="background-color: yellow;"}
+
+### Site Inventory & Analysis
+**Task**: As a class we will complete a site analysis on the topics shown in @tbl-ia_checklist.
+
+| Category                       | Resources                                      |
+|:-------------------------------|:-----------------------------------------------|
+| ***Biophysical***              |                                                |
+| *Topography*                   |                                                |
+| Slope                          |                                                |
+| Elevation                      |                                                |
+| Orientation (aspect)           |                                                |
+| *Drainage*                     |                                                |
+| HP and LP                      |                                                |
+| Pattern and flow direction     |                                                |
+| Off-site flow (watershed context)|                                              |
+| *Microclimate*                 |                                                |
+| Sun/shade                      |                                                |
+| Prevailing winds               | <a href="https://mesonet.agron.iastate.edu/sites/dyn_windrose.phtml?station=UNV&network=PA_ASOS&bin0=2&bin1=5&bin2=7&bin3=10&bin4=15&bin5=20&conv=from&units=mph&nsector=36&fmt=png&dpi=100&year1=2023&month1=1&day1=1&hour1=0&minute1=0&year2=2023&month2=8&day2=23&hour2=0&minute2=0" target="_blank">Windroses</a> |
+| Microclimate wind effects      | <a href="https://www.youtube.com/watch?v=xU7i4FcLS_E" target="_blank">Windflow and Venturi effect video</a> |
+| Site-specific microclimate     |                                                |
+| *Soil Type and conditions*     |                                                |
+| Soil texture                   | <a href="https://www.youtube.com/watch?v=ahY5qZwaY1E" target="_blank">Soil texture feel text video</a> |
+| Soil texture PDF               | <a href="https://tflohr.com/wp-content/uploads/2024/08/PM_Soil_texture_by_feel.pdf" target="_blank">Soil texture PDF</a> |
+| Soil compaction                | <a href="https://tflohr.com/wp-content/uploads/2024/08/PM_Penetrometer_article.pdf" target="_blank">Soil penetrometer  instructions</a> |
+| USDA web soil survey           | <a href="https://websoilsurvey.nrcs.usda.gov/app/WebSoilSurvey.aspx" target="_blank">Web soil survey</a> |
+| *Vegetation, veg. condition*   |                                                |
+| *Habitat*                      |                                                |
+| Types                          |                                                |
+| Condition                      |                                                |
+| Species                        |                                                |
+| *Local Context*                |                                                |
+| Vegetation                     |                                                |
+| Penn State Trees               | <a href="https://psu-opp.maps.arcgis.com/apps/webappviewer/index.html?id=accaa2c563cb4141b76c7c76c7dec370" target="_blank">Trees of Penn State</a> | 
+| 
+| Habitat and possible wildlife  | <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwgI-xn_WAAxVPmGoFHSxJBLkQFnoECBEQAQ&url=https%3A%2F%2Fwww.naturalheritage.state.pa.us%2Fcnai_pdfs%2Fcentre%2520county%2520nhi%25202002-web.pdf&usg=AOvVaw0wrPNmgfdnho2I9NY6sQY-&opi=89978449" target="_blank">Centre County Natural Heritage Inventory, 2002</a> |
+| Ecological concepts  | <a href="https://tflohr.com/wp-content/uploads/2024/08/PM_landscape_ecology_principles.pdf" target="_blank">Landscape Ecology Principals</a> |
+| PA Pollinators  | <a href="https://pollinators.psu.edu/pennsylvanias-pollinators" target="_blank">Pollinators of PA references</a> |
+|***Sensory Qualities & Spatial Impacts*** |                                      |
+| Spatial volumes, masses, enclosures, nested spaces; compression & release; spatial ‘leakage’|         |
+| Views, noise, odors, textures, colors (include views from buildings)|           |
+| “Gestalt” (feel) of the site as a place |                                       |
+| Cultural/Infrastructural       |                                                |
+| *Uses*                         |                                                |
+| Type: On-site                  |                                                |
+| Type: Off-site / nearby        |                                                |
+| Current / historic             |                                                |
+| *Architecture & Structures*    |                                                |
+| Interior Activities/Programs   |                                                |
+| Form                           |                                                |
+| Materials                      |                                                |
+| Height                         |                                                |
+| Orientation                    |                                                |
+| Exterior walls, stairs, terraces, views |                                       |
+| Rooftops/green roofs           |                                                |
+| *Vehicular Circulation (Including bikes)* |                                     |
+| Routes                         |                                                |
+| Hierarchy and volume           |                                                |
+| Entry/exit                     |                                                |
+| Intersections                  |                                                |
+| Parking                        |                                                |
+| *Pedestrian Circulation*       |                                                |
+| Routes                         |                                                |
+| Hierarchy and volume           |                                                |
+| Entry/exit                     |                                                |
+| Intersections                  |                                                |
+| Materials                      |                                                |
+| *Utilities*                    |                                                |
+| Lighting; overhead lines       |                                                |
+| Storm Drains (pipes, inlets, etc.) |                                            |
+| Steam line?                    |                                                |
+| Below-ground stormwater reservoir |                                             |
+| other                          |                                                |
+
+: Inventory and analyses checklist. {#tbl-ia_checklist}
+
+**Deliverable**: A powerpoint presentation. Each person will give a 5-10 minute overview, of just the highlights of their topics.
+
+[Travis will review and add additional content as needed to this section.]{style="background-color: yellow;"}
+
+### Conceptual Design
+
+[Travis will add the rest of the content here.]{style="background-color: yellow;"}
+
+### Design Development
+
+[Travis will add the rest of the content here.]{style="background-color: yellow;"}
+
+### Construction Documentation
+
+[Travis will add the rest of the content here, don't forget to add the rubrics to each step.]{style="background-color: yellow;"}
