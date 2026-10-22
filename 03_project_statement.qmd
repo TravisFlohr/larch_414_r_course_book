@@ -2,15 +2,17 @@
 
 [Travis to get a new photo and add it below.]{style="background-color: yellow;"}
 
-![Previous students' work sample. Source: Travis Flohr](images/04_statement_cover.png){#fig-example_journal_entry fig-alt="Presentation slide for a site inventory and analysis divided into Uses and Microclimate. The Uses section features a diagram of on-site activities (such as walking, biking, and campus events), a color-coded map of surrounding land uses (academic, residential, and recreational), and a note that the site was formerly used for parking and tennis courts. The Microclimate section displays two 3D models illustrating the building shadows cast on the site at 9:00 a.m. and noon." fig-align="center" width=100%}
+![Project site. Source: Travis Flohr](images/study_site.png){#fig-project_statement_site fig-alt="An aerial map of a campus section of Penn State showing Curtin Road to the north and Shortlidge Road to the east. The map uses a selective color effect: the surrounding buildings and roads are in grayscale, while a central horizontal swath of landscaping is highlighted in full color. This green corridor features large lawns, mature trees, and curved walkways, and is situated south of the Weaver, Armsby, and Arts Cottage buildings, and north of the Frear North, Althouse Laboratory, and Chemical and Biomedical Engineering buildings." fig-align="center" width=100%}
 
 ## Overview
-Design an ecologically appropriate planting design for Penn State’s Shortlidge to Paterno Library Pedestrian Mall (a high-visibility, high-traffic campus corridor) that achieves **net biodiversity gain through ecological function**, not aesthetics. Your design must:
+Design an ecologically appropriate planting design for Penn State’s Shortlidge to Paterno Library Pedestrian Mall @fig-project_statement_site (a high-visibility, high-traffic campus corridor) that achieves **net biodiversity gain through ecological function**, not aesthetics. Your design must:
 
 - Prioritize **plant–insect–pollinator–bird interactions** across all life cycles (i.e., nesting, foraging, water access).
 - Ensure **long-term resilience** via site-appropriate plant communities (using site analysis data).
 - Be **client-ready** for SLIP donor fundraising (accessible to non-specialists; e.g., donors, campus sustainability, OPP).
 - **Explicitly align** with ASLA’s Climate & Biodiversity Action Plan (2026–2030) and Penn State’s SLIP.
+
+[Travis add a site photo gallery here.]{style="background-color: yellow;"}
 
 ## Point Value
 100 points
@@ -18,17 +20,17 @@ Design an ecologically appropriate planting design for Penn State’s Shortlidge
 ## Deliverables
 All deliverables must include ecological justification, client-facing visuals, and technical documentation.
 
-## Due Dates
+### Due Dates
 Note: Due dates are documented within the [course schedule](02_schedule.qmd). 
 
-### Pollinator and Bird Life Cycle Mapping
+### Phase I: Pollinator and Bird Life Cycle Mapping
 **Task**: As a class we will develop templates for the fact cards. You will use physical fact cards + colored strings to map connections (nesting, foraging, water) across the life cycle of birds and pollinators. For pollinators you must insure you are mapping to all three life cycles. Integrate guest lecture insights.
 
 **Deliverable**: Annotated physical food web + 1-page analysis of ecological gaps (e.g., "No cavity-nesting bees in current site"). 
 
 [Travis will review and add additional content as needed to this section.]{style="background-color: yellow;"}
 
-### Site Inventory & Analysis
+### Phase II: Site Inventory & Analysis
 **Task**: As a class we will complete a site analysis on the topics shown in @tbl-ia_checklist.
 
 | Category                       | Resources                                      |
@@ -106,14 +108,14 @@ Note: Due dates are documented within the [course schedule](02_schedule.qmd).
 
 [Travis will review and add additional content as needed to this section.]{style="background-color: yellow;"}
 
-### Conceptual Design
+### Phase III: Conceptual Design
 
 [Travis will add the rest of the content here.]{style="background-color: yellow;"}
 
-### Design Development
+### Phase IV: Design Development
 
 [Travis will add the rest of the content here.]{style="background-color: yellow;"}
 
-### Construction Documentation
+### Phase V: Construction Documentation
 
 [Travis will add the rest of the content here, don't forget to add the rubrics to each step.]{style="background-color: yellow;"}
