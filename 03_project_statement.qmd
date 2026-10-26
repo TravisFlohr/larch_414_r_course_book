@@ -26,7 +26,7 @@ Note: Due dates are documented within the [course schedule](02_schedule.qmd).
 ### Phase I: Pollinator and Bird Life Cycle Mapping
 **Task**: As a class we will develop templates for the fact cards. You will use physical fact cards + colored strings to map connections (nesting, foraging, water) across the life cycle of birds and pollinators. For pollinators you must insure you are mapping to all three life cycles. Integrate guest lecture insights.
 
-**Deliverable**: Annotated physical food web + 1-page analysis of ecological gaps (e.g., "No cavity-nesting bees in current site"). 
+**Deliverable**: Annotated physical food web + 1-page analysis of potential ecological gaps (e.g., "No cavity-nesting bees in current site"). 
 
 [Travis will review and add additional content as needed to this section.]{style="background-color: yellow;"}
 
@@ -109,13 +109,36 @@ Note: Due dates are documented within the [course schedule](02_schedule.qmd).
 [Travis will review and add additional content as needed to this section.]{style="background-color: yellow;"}
 
 ### Phase III: Conceptual Design
+**Task**: Develop two distinct concepts (e.g., Native Meadow vs. Seasonal Forest Edge) for two adjacent sub-areas within our project with: 
+
+- Spatial drawings (plans, seasonal sections, perspectives)
+- Illustrative food webs 
+- Phenological plant lists (seasonal bloom cycles) 
+
+**Deliverables**: Public poster review that presents the following:
+
+- Two, 36" x 48" posters containing:
+    + Two concept plans
+    + Two seasonal section-elevations
+    + Perspectives
+    + Two illustrative food webs
+    + Two phenological plant lists
+- 10 minute presentation to faculty/professionals/stakeholders
+
+Note: One of the concepts should aggressively challenge the standard campus landscape and the other more directly align with OPP's current landscape efforts. 
 
 [Travis will add the rest of the content here.]{style="background-color: yellow;"}
 
 ### Phase IV: Design Development
+**Task**: Refine one concept into a single concept and a set of drawings that address the feedback received from Phase III presentations and desk crits. 
+
+**Deliverable**: Public PowerPoint (12 slides max: concept drawings, plant list, ecological metrics, client story)
 
 [Travis will add the rest of the content here.]{style="background-color: yellow;"}
 
 ### Phase V: Construction Documentation
+**Task**: Convert design to construction-ready drawings (planting plan, plant schedule, and management notes to support pollinators). Scale is to be coordinated with faculty.
+
+**Deliverable**: Set of construction drawings.
 
 [Travis will add the rest of the content here, don't forget to add the rubrics to each step.]{style="background-color: yellow;"}
