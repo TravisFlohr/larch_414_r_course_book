@@ -1,9 +1,5 @@
 # Project Assignment Statement (semester-long phased project)
 
-[Travis to get a new photo and add it below.]{style="background-color: yellow;"}
-
-![Project site. Source: Travis Flohr](images/study_site.png){#fig-project_statement_site fig-alt="An aerial map of a campus section of Penn State showing Curtin Road to the north and Shortlidge Road to the east. The map uses a selective color effect: the surrounding buildings and roads are in grayscale, while a central horizontal swath of landscaping is highlighted in full color. This green corridor features large lawns, mature trees, and curved walkways, and is situated south of the Weaver, Armsby, and Arts Cottage buildings, and north of the Frear North, Althouse Laboratory, and Chemical and Biomedical Engineering buildings." fig-align="center" width=100%}
-
 ## Overview
 Design an ecologically appropriate planting design for Penn State’s Shortlidge to Paterno Library Pedestrian Mall @fig-project_statement_site (a high-visibility, high-traffic campus corridor) that achieves **net biodiversity gain through ecological function**, not aesthetics. Your design must:
 
@@ -12,10 +8,12 @@ Design an ecologically appropriate planting design for Penn State’s Shortlidge
 - Be **client-ready** for SLIP donor fundraising (accessible to non-specialists; e.g., donors, campus sustainability, OPP).
 - **Explicitly align** with ASLA’s Climate & Biodiversity Action Plan (2026–2030) and Penn State’s SLIP.
 
+![Project site. Source: Travis Flohr](images/study_site.png){#fig-project_statement_site fig-alt="An aerial map of a campus section of Penn State showing Curtin Road to the north and Shortlidge Road to the east. The map uses a selective color effect: the surrounding buildings and roads are in grayscale, while a central horizontal swath of landscaping is highlighted in full color. This green corridor features large lawns, mature trees, and curved walkways, and is situated south of the Weaver, Armsby, and Arts Cottage buildings, and north of the Frear North, Althouse Laboratory, and Chemical and Biomedical Engineering buildings." fig-align="center" width=100%}
+
 [Travis add a site photo gallery here.]{style="background-color: yellow;"}
 
 ## Point Value
-100 points
+150 points
 
 ## Deliverables
 All deliverables must include ecological justification, client-facing visuals, and technical documentation.

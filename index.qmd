@@ -81,7 +81,7 @@ Tuesday and Thursday, [2:30-5:30 PM]{style="background-color: yellow;"}
 **Classroom**: 4th Floor Studio.
 <br>
 
-![**Project Site**: East and West pedestrian mall from Shortlidge Road to Paterno Library. Source: Travis Flohr](images/study_site.png){fig-alt="An aerial map of a campus section of Penn State showing Curtin Road to the north and Shortlidge Road to the east. The map uses a selective color effect: the surrounding buildings and roads are in grayscale, while a central horizontal swath of landscaping is highlighted in full color. This green corridor features large lawns, mature trees, and curved walkways, and is situated south of the Weaver, Armsby, and Arts Cottage buildings, and north of the Frear North, Althouse Laboratory, and Chemical and Biomedical Engineering buildings."}
+![Project Site: East and West pedestrian mall from Shortlidge Road to Paterno Library. Source: Travis Flohr](images/study_site.png){#fig-project_site fig-alt="An aerial map of a campus section of Penn State showing Curtin Road to the north and Shortlidge Road to the east. The map uses a selective color effect: the surrounding buildings and roads are in grayscale, while a central horizontal swath of landscaping is highlighted in full color. This green corridor features large lawns, mature trees, and curved walkways, and is situated south of the Weaver, Armsby, and Arts Cottage buildings, and north of the Frear North, Althouse Laboratory, and Chemical and Biomedical Engineering buildings."}
 
 
 ```{r class room map}
@@ -117,7 +117,8 @@ I have tried to keep course costs to a minimum. Feel free to leverage your exist
 | *Printing*                                        |        |
 | 11” x 17” (Tabloid) Black and White Plant Lists, 20 sheets (single-sided) * $0.17 | $3.40  |
 | 24” x 26” (Arch D) Black and White Base Maps, 2 sheets (single-sided) * $18.00    | $36.00 |
-| ***Total Costs***                                                          | ***$111.40*** |
+| 36" x 48" (Arch E) Color Presentation Drawings, 2 sheets (single-sided) * $20.00. | $40.00 |
+| ***Total Costs***                                                          | ***$151.40*** |
 
 : Estimated course costs. {#tbl-course_costs}
 
@@ -135,11 +136,15 @@ If you already have an external hard drive or USB flash drive, feel free to cont
 
 ## Course Description and Objectives
 
-Planting Design for Ecological Performance is an advanced studio focused on integrating planting design and methods to achieve net biodiversity gain in institutional and public landscapes. The studio is aligned with Penn State’s Sustainable Landscape Implementation Plan (SLIP). It parallels the American Society of Landscape Architects’ Climate & Biodiversity Action Plan (2026–2030), emphasizing biodiversity, climate resilience, and measurable landscape performance. 
+Planting Design for Ecological Performance is an advanced studio focused on integrating planting design and methods to achieve net biodiversity gain in institutional and public landscapes. The studio is aligned with <a href="https://www.opp.psu.edu/sites/opp/files/2024-04/sustainable_landscape_implementation_plan.pdf" target="_blank">Penn State’s Sustainable Landscape Implementation Plan (SLIP)</a>. It parallels the <a href="https://www.asla.org/focus-areas/climate-biodiversity-action/climate-and-biodiversity-action-plan-(2026-2030)" target="_blank">American Society of Landscape Architects’ Climate & Biodiversity Action Plan (2026–2030)</a>, emphasizing biodiversity, climate resilience, and measurable landscape performance. 
 
-The studio prioritizes plant–insect–pollinator interactions, ecological function, and long-term landscape stewardship. The studio places equal emphasis on professional communication, visualization, design, and implementation, to ensure ecological design intent is accessible to institutional clients and non-specialist stakeholders. Students will work with Penn State’s Office of Physical Plant to create designs for SLIP donor fundraising that can be implemented in the future and engage with content experts at Penn State’s Arboretum, Center for Pollinator Research, Huck Institute, and Landscape Contracting.
+The studio prioritizes plant–insect–pollinator interactions, ecological function, and long-term landscape stewardship (@fig-sankey). The studio places equal emphasis on professional communication, visualization, design, and implementation, to ensure ecological design intent is accessible to institutional clients and non-specialist stakeholders. Students will work with Penn State’s Office of Physical Plant to create designs for SLIP donor fundraising that can be implemented in the future and engage with content experts at Penn State’s Arboretum, Center for Pollinator Research, Huck Institute, and Landscape Contracting.
 
-This studio addresses emerging professional expectations for performance-based, ecologically grounded landscape architecture practice. ASLA’s Climate & Biodiversity Action Plan (2026–2030) identifies biodiversity protection, restoration, and measurable outcomes—such as net biodiversity gain—as core professional responsibilities. This studio equips students with the skills needed to meet these expectations while reinforcing Penn State’s commitment to sustainable, biodiverse campus landscapes. Additionally, this course strengthens our alignment with LAAB's professional accreditation requirements, particularly in planting design, ecological systems, technical documentation, and professional communication. By integrating real-world campus conditions with professional standards, the course prepares students for contemporary practice.
+![Plant Pollinator Relationships: Pennsylvania’s native plants support a network of pollinators by providing food and nesting habitat across the seasons. Source: Travis Flohr/Gemini](images/sankey_pollinator_relationships.jpg){#fig-sankey fig-alt="Sankey diagram showing how 11 Pennsylvania plant species—including purple coneflower, wild bergamot, goldenrod, asters, milkweed, serviceberry, dogwood, willow, oak, graminoids, and spring ephemerals—support pollinators. Colored bands connect plants to habitat use and foraging resources (nectar and pollen), then to bumblebees, solitary bees, butterflies and moths, and other insects. The diagram also links pollinators to stem, cavity, and ground nesting; callouts note early- and late-season food resources. Examples at right include a monarch caterpillar on milkweed, a tiger swallowtail on coneflower, a hoverfly mimicking a bee, and a beetle pollinating goldenrod."}
+
+This studio addresses emerging professional expectations for performance-based, ecologically grounded landscape architecture practice. ASLA’s Climate & Biodiversity Action Plan (2026–2030) identifies biodiversity protection, restoration, and measurable outcomes—such as net biodiversity gain—as core professional responsibilities (@fig-impact_assessment). This studio equips students with the skills needed to meet these expectations while reinforcing Penn State’s commitment to sustainable, biodiverse campus landscapes. Additionally, this course strengthens our alignment with LAAB's professional accreditation requirements, particularly in planting design, ecological systems, technical documentation, and professional communication. By integrating real-world campus conditions with professional standards, the course prepares students for contemporary practice.
+
+![Converting a campus lawn to a diverse native planting can increase seasonal floral resources and nesting opportunities for wild bees. Source: Travis Flohr/Gemini](images/impact_assessment.jpg){#fig-impact_assessment fig-alt="Side-by-side comparison of a campus landscape and a proposed redesign. Left: a large mown lawn beside a glass office building, with mature trees and a path. Right: an illustrated version replaces much of the lawn with dense, flowering native plants while retaining the building, trees, and path. Beneath each image, colored scales compare nesting availability for wild bees and spring, summer, and fall floral resources; gray markers indicate each design’s ratings."}
 
 ### Studio Learning Outcomes
 
@@ -147,7 +152,7 @@ This studio addresses emerging professional expectations for performance-based, 
 - Integrate plant–insect–pollinator-bird interactions into planting design.
 - Apply planting methods that ensure long-term landscape performance.
 - Evaluate and communicate landscape performance outcomes.
-- Produce clear, persuasive client-facing graphics and narratives.
+- Produce clear, persuasive client-facing and contractor graphics and narratives.
 
 ### LAAB Accreditation Alignment
 
@@ -165,24 +170,18 @@ Students will gain proficiency in:
 Learning theory strongly advises blending several approaches to build knowledge. As such we will interweave multiple learning formats: site visits, lectures, demonstrations, workshops, pin-ups, and one-on-one desk critiques. 
 
 ## Evaluation and Grade Allocation
-This course has a total of [x]{style="background-color: yellow;"} modules, details are provided below @tbl-module_values. Details for each graded deliverable will be provided within individual deliverable statements.
-
-[update the chart below for this class]{style="background-color: yellow;"}
+This course has one module, with multiple phases, details are provided below @tbl-module_values. Details for each graded deliverable will be provided within individual deliverable statements.
 
 ### Assignment Grade Details
 
 | Module                             | Value            |
 |:-----------------------------------|:-----------------|
-| ***Module 1: Site Analyses***                     | 10 points        |
-| ***Module 2: Pollinator Garden***                 |                  |
-| 2a. Pollinator Garden Plant List/Design Check-off | 15 points        |
-| 2b. Pollinator Garden Technical Planting Plan/Schedule | 30 points   |
-| ***Module 3. Technical Treed Plaza Plan and Details*** | 60 points   |
-| ***Module 4. Planted Meadow Ecosystems***              |             |
-| 4a. Meadow Concept and Palette                         | 30 points   |
-| 4b. Technical Meadow Plan, Schedules, and Establishment Notes | 30 points|
-| Engagement - steady participation, progress, attendance, and preparation| 10 points |
-| ***Total***                                            | ***185 points*** |
+| ***Phase I: Pollinator and Bird Life Cycle Mapping***  | 30 points        |
+| ***Phase II: Site Inventory & Analysis***              | 20 points        |
+| ***Phase III: Conceptual Design***                     | 40 points        |
+| ***Phase IV: Design Development***                     | 30 points        |
+| ***Phase V: Construction Documentation***              | 20 points        |
+| ***Total***                                            | ***150 points*** |
 
 : Outline of course modules and their associated point values. {#tbl-module_values}
 
