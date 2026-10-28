@@ -115,13 +115,14 @@ Note: Due dates are documented within the [course schedule](02_schedule.qmd).
 
 **Deliverables**: Public poster review that presents the following:
 
-- Two, 36" x 48" posters containing:
-    + Two concept plans
-    + Two seasonal section-elevations
-    + Perspectives
-    + Two illustrative food webs
-    + Two phenological plant lists
-- 10 minute presentation to faculty/professionals/stakeholders
+- Two or three, 36" x 48" posters containing:
+    + A unique concept statement for each concept
+    + A plan for each concept
+    + Seasonal section-elevation for each concept
+    + Perspectives for each concept
+    + Illustrative food webs for each concept
+    + Phenological plant lists for each concept
+- 10 minute presentation to faculty/professionals/stakeholders (approx. 5 minutes per concept - **highlights only**)
 
 Note: One of the concepts should aggressively challenge the standard campus landscape and the other more directly align with OPP's current landscape efforts. 
 
