@@ -10,7 +10,7 @@ Design an ecologically appropriate planting design for Penn State’s Shortlidge
 
 ![Project site. Source: Travis Flohr](images/study_site.png){#fig-project_statement_site fig-alt="An aerial map of a campus section of Penn State showing Curtin Road to the north and Shortlidge Road to the east. The map uses a selective color effect: the surrounding buildings and roads are in grayscale, while a central horizontal swath of landscaping is highlighted in full color. This green corridor features large lawns, mature trees, and curved walkways, and is situated south of the Weaver, Armsby, and Arts Cottage buildings, and north of the Frear North, Althouse Laboratory, and Chemical and Biomedical Engineering buildings." fig-align="center" width=100%}
 
-[Travis add a site photo gallery here.]{style="background-color: yellow;"}
+[Travis add update photos for the site photo gallery and link here.]{style="background-color: yellow;"}
 
 ## Point Value
 150 points
@@ -26,7 +26,10 @@ Note: Due dates are documented within the [course schedule](02_schedule.qmd).
 
 **Deliverable**: Annotated physical food web + 1-page analysis of potential ecological gaps (e.g., "No cavity-nesting bees in current site"). 
 
-[Travis will review and add additional content as needed to this section.]{style="background-color: yellow;"}
+[Travis will add example plant, pollinator, and bird fact cards.]{style="background-color: yellow;"}
+
+**Rubric**: 
+[Travis will add.]{style="background-color: yellow;"}
 
 ### Phase II: Site Inventory & Analysis
 **Task**: As a class we will complete a site analysis on the topics shown in @tbl-ia_checklist.
@@ -102,9 +105,12 @@ Note: Due dates are documented within the [course schedule](02_schedule.qmd).
 
 : Inventory and analyses checklist. {#tbl-ia_checklist}
 
-**Deliverable**: A powerpoint presentation. Each person will give a 5-10 minute overview, of just the highlights of their topics.
+**Deliverable**: A powerpoint presentation to your peers. Each person will give a 5-10 minute overview, of just the highlights of their topics.
 
-[Travis will review and add additional content as needed to this section.]{style="background-color: yellow;"}
+[Travis will add a link to the sign-up sheet and an example.]{style="background-color: yellow;"}
+
+**Rubric**: 
+[Travis will add.]{style="background-color: yellow;"}
 
 ### Phase III: Conceptual Design
 **Task**: Develop two distinct concepts (e.g., Native Meadow vs. Seasonal Forest Edge) for two adjacent sub-areas within our project with: 
@@ -126,18 +132,27 @@ Note: Due dates are documented within the [course schedule](02_schedule.qmd).
 
 Note: One of the concepts should aggressively challenge the standard campus landscape and the other more directly align with OPP's current landscape efforts. 
 
-[Travis will add the rest of the content here.]{style="background-color: yellow;"}
+[Travis will add an example here.]{style="background-color: yellow;"}
+
+**Rubric**: 
+[Travis will add.]{style="background-color: yellow;"}
 
 ### Phase IV: Design Development
 **Task**: Refine one concept into a single concept and a set of drawings that address the feedback received from Phase III presentations and desk crits. 
 
 **Deliverable**: Public PowerPoint (12 slides max: concept drawings, plant list, ecological metrics, client story)
 
-[Travis will add the rest of the content here.]{style="background-color: yellow;"}
+[Travis will add an example here.]{style="background-color: yellow;"}
+
+**Rubric**: 
+[Travis will add.]{style="background-color: yellow;"}
 
 ### Phase V: Construction Documentation
 **Task**: Convert design to construction-ready drawings (planting plan, plant schedule, and management notes to support pollinators). Scale is to be coordinated with faculty.
 
 **Deliverable**: Set of construction drawings.
 
-[Travis will add the rest of the content here, don't forget to add the rubrics to each step.]{style="background-color: yellow;"}
+[Travis will details on the construction document requirements and an example.]{style="background-color: yellow;"}
+
+**Rubric**: 
+[Travis will add.]{style="background-color: yellow;"}
