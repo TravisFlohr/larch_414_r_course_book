@@ -24,7 +24,7 @@ Note: Due dates are documented within the [course schedule](02_schedule.qmd).
 ### Phase I: Pollinator and Bird Life Cycle Mapping
 **Task**: As a class we will develop templates for the fact cards. You will use physical fact cards + colored strings to map connections (nesting, foraging, water) across the life cycle of birds and pollinators. For pollinators you must insure you are mapping to all three life cycles. Integrate guest lecture insights.
 
-**Deliverable**: Annotated physical food web + 1-page analysis of potential ecological gaps (e.g., "No cavity-nesting bees in current site"). 
+**Final Deliverable**: Annotated physical food web + 1-page analysis of potential ecological gaps (e.g., "No cavity-nesting bees in current site"). 
 
 [Travis will add example plant, pollinator, and bird fact cards.]{style="background-color: yellow;"}
 
@@ -105,7 +105,7 @@ Note: Due dates are documented within the [course schedule](02_schedule.qmd).
 
 : Inventory and analyses checklist. {#tbl-ia_checklist}
 
-**Deliverable**: A powerpoint presentation to your peers. Each person will give a 5-10 minute overview, of just the highlights of their topics.
+**Final Deliverable**: A powerpoint presentation to your peers. Each person will give a 5-10 minute overview, of just the highlights of their topics.
 
 [Travis will add a link to the sign-up sheet and an example.]{style="background-color: yellow;"}
 
@@ -119,7 +119,13 @@ Note: Due dates are documented within the [course schedule](02_schedule.qmd).
 - Illustrative food webs 
 - Phenological plant lists (seasonal bloom cycles) 
 
-**Deliverables**: Public poster review that presents the following:
+::: {.callout-tip}
+## Reminder
+
+During the conceptual design process, you will create a wide range of plan, section-elevation, perspective, and plant form graphics that may or may not make it into the final deliverables. This is the sign of a great iterative process that refines your ideas deeply.
+::: 
+
+**Final Deliverables**: Public poster review that presents the following:
 
 - Two or three, 36" x 48" posters containing:
     + A unique concept statement for each concept
@@ -140,7 +146,13 @@ Note: One of the concepts should aggressively challenge the standard campus land
 ### Phase IV: Design Development
 **Task**: Refine one concept into a single concept and a set of drawings that address the feedback received from Phase III presentations and desk crits. 
 
-**Deliverable**: Public PowerPoint (12 slides max: concept drawings, plant list, ecological metrics, client story)
+::: {.callout-tip}
+## Reminder
+
+During the design development process, you still create a wide range of plan, section-elevation, perspective, and plant form graphics that may or may not make it into the final deliverables. This signals a strong iterative process that refines your ideas deeply, rather than simply checking off reviewer comments, since there are likely multiple ways to address them.
+::: 
+
+**Final Deliverable**: Public PowerPoint (12 slides max: concept drawings, plant list, ecological metrics, client story)
 
 [Travis will add an example here.]{style="background-color: yellow;"}
 
@@ -150,7 +162,7 @@ Note: One of the concepts should aggressively challenge the standard campus land
 ### Phase V: Construction Documentation
 **Task**: Convert design to construction-ready drawings (planting plan, plant schedule, and management notes to support pollinators). Scale is to be coordinated with faculty.
 
-**Deliverable**: Set of construction drawings.
+**Final Deliverable**: Set of construction drawings.
 
 [Travis will details on the construction document requirements and an example.]{style="background-color: yellow;"}
 

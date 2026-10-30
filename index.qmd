@@ -74,7 +74,7 @@ current_year <- format(Sys.Date(), "%Y")
 
 ### Meeting Times
 
-Tuesday and Thursday, [2:30-5:30 PM]{style="background-color: yellow;"}
+Tuesday and Thursday, 1:35-5:35 PM
 
 ### Location(s)
 
