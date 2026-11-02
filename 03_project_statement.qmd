@@ -1,7 +1,7 @@
 # Project Assignment Statement (semester-long phased project)
 
 ## Overview
-Design an ecologically appropriate planting design for Penn State’s Shortlidge to Paterno Library Pedestrian Mall @fig-project_statement_site (a high-visibility, high-traffic campus corridor) that achieves **net biodiversity gain through ecological function**, not aesthetics. Your design must:
+Design an ecologically appropriate planting design for Penn State’s Shortlidge to Paterno Library Pedestrian Mall (@fig-project_statement_site: a high-visibility, high-traffic campus corridor) that achieves **net biodiversity gain through ecological function**, not aesthetics. Your design must:
 
 - Prioritize **plant–insect–pollinator–bird interactions** across all life cycles (i.e., nesting, foraging, water access).
 - Ensure **long-term resilience** via site-appropriate plant communities (using site analysis data).
@@ -10,7 +10,15 @@ Design an ecologically appropriate planting design for Penn State’s Shortlidge
 
 ![Project site. Source: Travis Flohr](images/study_site.png){#fig-project_statement_site fig-alt="An aerial map of a campus section of Penn State showing Curtin Road to the north and Shortlidge Road to the east. The map uses a selective color effect: the surrounding buildings and roads are in grayscale, while a central horizontal swath of landscaping is highlighted in full color. This green corridor features large lawns, mature trees, and curved walkways, and is situated south of the Weaver, Armsby, and Arts Cottage buildings, and north of the Frear North, Althouse Laboratory, and Chemical and Biomedical Engineering buildings." fig-align="center" width=100%}
 
-[Travis add update photos for the site photo gallery and link here.]{style="background-color: yellow;"}
+![Project site: View from the sidewalk at the Paterno Library parking lot and Curtin towards Mueller Lab and Weaver Building. Source: Travis Flohr](images/Larch_414_Site_8.jpeg){#fig-site_8 fig-alt="View from the sidewalk at the Paterno Library parking lot towards Mueller Lab and Weaver Building. Campus landscape with a broad mown lawn shaded by mature trees. A curved concrete sidewalk, bordered by black posts and chains, crosses the foreground and loops toward a road with parked cars and nearby buildings." fig-align="center" width=100%}
+
+![Project site: View from the sidewalk at the Paterno Library parking lot towards Mueller Lab and Frear North. Source: Travis Flohr](images/Larch_414_Site_15.jpeg){#fig-site_15 fig-alt="A campus walkway curves through a mature, tree-shaded lawn and branches toward a large building on the right. Bare soil surrounds several tree trunks, while a small rock feature sits beside the paved plaza. Part of a bicycle is visible in the lower-left corner." fig-align="center" width=100%}
+
+![Project site: View from the sidewalk between Weaver building and Mueller Lab looking towards Armsby and Frear North. Source: Travis Flohr](images/Larch_414_Site_18.jpeg){#fig-site_18 fig-alt="A shaded campus walkway curves through a broad mown lawn beneath mature trees, with a metal bench beside the path and black chain-linked posts bordering the grass. Brick and modern academic buildings frame the open space." fig-align="center" width=100%}
+
+![Project site: View from the steps of Ferguson Building towards Althouse Laboratory. Source: Travis Flohr](images/Larch_414_Site_28.jpeg){#fig-site_28 fig-alt="A landscaped campus courtyard with broad concrete steps and a black handrail in the foreground. Walkways fork around a small lawn with a young tree, bordered by mature evergreens and deciduous trees, ornamental grasses, and chain-linked posts. A person walks along the left path." fig-align="center" width=100%}
+
+![Project site: View from the the Shortlidge Road entrance of the Chemical and Biomedical Engineering building towards Ferguson Building. Source: Travis Flohr](images/Larch_414_Site_36.jpeg){#fig-site_36 fig-alt="A paved brick campus plaza beneath a sweeping building canopy, with a circular wooden bench around a planted opening. Paths lead across a lawn toward mature trees and nearby buildings; a raised planting bed and roadside sit to the right, with a few people in the distance." fig-align="center" width=100%}
 
 ## Point Value
 150 points
