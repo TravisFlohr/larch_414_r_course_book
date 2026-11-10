@@ -34,7 +34,19 @@ Note: Due dates are documented within the [course schedule](02_schedule.qmd).
 
 **Final Deliverable**: Annotated physical food web + 1-page analysis of potential ecological gaps (e.g., "No cavity-nesting bees in current site"). 
 
-[Travis will add example plant, pollinator, and bird fact cards.]{style="background-color: yellow;"}
+![Example plant fact card for Common Milkweed (*Asclepias syriaca*) (front). Source: Travis Flohr](images/plant_fact_card_a4_1.jpg){#fig-plant_fact_card_a4_1 fig-alt="" fig-align="center" width=100%}
+
+![Example plant fact card for Common Milkweed (*Asclepias syriaca*) (back). Source: Travis Flohr](images/plant_fact_card_a4_2.jpg){#fig-plant_fact_card_a4_2 fig-alt="" fig-align="center" width=100%}
+
+![Example pollinator fact card for the Monarch Butterfly (*Danaus plexippus*) (front). Source: Travis Flohr](images/plant_fact_card_a4_3.jpg){#fig-plant_fact_card_a4_3 fig-alt="" fig-align="center" width=100%}
+
+![Example pollinator fact card for the Monarch Butterfly (*Danaus plexippus*) (back). Source: Travis Flohr](images/plant_fact_card_a4_4.jpg){#fig-plant_fact_card_a4_4 fig-alt="" fig-align="center" width=100%}
+
+![Example pollinator fact card for the Brown Belted Bumblebee (*Bombus griseocollis*) (front). Source: Travis Flohr](images/plant_fact_card_a4_5.jpg){#fig-plant_fact_card_a4_5 fig-alt="" fig-align="center" width=100%}
+
+![Example pollinator fact card for the Brown Belted Bumblebee (*Bombus griseocollis*) (back). Source: Travis Flohr](images/plant_fact_card_a4_6.jpg){#fig-plant_fact_card_a4_6 fig-alt="" fig-align="center" width=100%}
+
+[Travis will add example plant and pollinator fact cards. Travis double-check the alt text]{style="background-color: yellow;"}
 
 **Rubric**: 
 [Travis will add.]{style="background-color: yellow;"}
