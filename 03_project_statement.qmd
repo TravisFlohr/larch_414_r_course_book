@@ -46,10 +46,7 @@ Note: Due dates are documented within the [course schedule](02_schedule.qmd).
 
 ![Example pollinator fact card for the Brown Belted Bumblebee (*Bombus griseocollis*) (back). Source: Travis Flohr](images/plant_fact_card_a4_6.jpg){#fig-plant_fact_card_a4_6 fig-alt="" fig-align="center" width=100%}
 
-[Travis will add example plant and pollinator fact cards. Travis double-check the alt text]{style="background-color: yellow;"}
-
 **Rubric**: 
-[Travis will add.]{style="background-color: yellow;"}
 
 ### Phase II: Site Inventory & Analysis
 **Task**: As a class we will complete a site analysis on the topics shown in @tbl-ia_checklist.
@@ -127,10 +124,7 @@ Note: Due dates are documented within the [course schedule](02_schedule.qmd).
 
 **Final Deliverable**: A powerpoint presentation to your peers. Each person will give a 5-10 minute overview, of just the highlights of their topics.
 
-[Travis will add a link to the sign-up sheet and an example.]{style="background-color: yellow;"}
-
 **Rubric**: 
-[Travis will add.]{style="background-color: yellow;"}
 
 ### Phase III: Conceptual Design
 **Task**: Develop two distinct concepts (e.g., Native Meadow vs. Seasonal Forest Edge) for two adjacent sub-areas within our project with: 
@@ -158,10 +152,7 @@ During the conceptual design process, you will create a wide range of plan, sect
 
 Note: One of the concepts should aggressively challenge the standard campus landscape and the other more directly align with OPP's current landscape efforts. 
 
-[Travis will add an example here.]{style="background-color: yellow;"}
-
 **Rubric**: 
-[Travis will add.]{style="background-color: yellow;"}
 
 ### Phase IV: Design Development
 **Task**: Refine one concept into a single concept and a set of drawings that address the feedback received from Phase III presentations and desk crits. 
@@ -174,17 +165,11 @@ During the design development process, you still create a wide range of plan, se
 
 **Final Deliverable**: Public PowerPoint (12 slides max: concept drawings, plant list, ecological metrics, client story)
 
-[Travis will add an example here.]{style="background-color: yellow;"}
-
 **Rubric**: 
-[Travis will add.]{style="background-color: yellow;"}
 
 ### Phase V: Construction Documentation
 **Task**: Convert design to construction-ready drawings (planting plan, plant schedule, and management notes to support pollinators). Scale is to be coordinated with faculty.
 
 **Final Deliverable**: Set of construction drawings.
 
-[Travis will details on the construction document requirements and an example.]{style="background-color: yellow;"}
-
 **Rubric**: 
-[Travis will add.]{style="background-color: yellow;"}
