@@ -34,17 +34,41 @@ Note: Due dates are documented within the [course schedule](02_schedule.qmd).
 
 **Final Deliverable**: Annotated physical food web + 1-page analysis of potential ecological gaps (e.g., "No cavity-nesting bees in current site"). 
 
-![Example plant fact card for Common Milkweed (*Asclepias syriaca*) (front). Source: Travis Flohr](images/plant_fact_card_a4_1.jpg){#fig-plant_fact_card_a4_1 fig-alt="" fig-align="center" width=100%}
+![Example plant fact card for Common Milkweed (*Asclepias syriaca*) (front). Source: Travis Flohr](images/plant_fact_card_a4_1.jpg){#fig-plant_fact_card_a4_1 fig-alt="Front of a plant identification card for Common Milkweed (Asclepias syriaca). The card features a close-up photograph of the plant's dense, spherical umbel of intricate pink and white flowers set against large, broad green leaves. Below the image, design and ecological specifications are detailed: Plant type is listed as Herbaceous Flower (Forb). A row of ecological value icons indicates it supports caterpillars, beneficial insects, bees, and birds, and that it is deer-resistant. A bloom phenology chart shows active blooming during the months of June, July, and August. Text at the bottom notes it attracts bees, butterflies, pollinators, songbirds, and specialized bees, and serves as a larval host for the Monarch Butterfly (Danaus plexippus) and Milkweed Tiger Moth (Euchaetes egle)." fig-align="center" width=100%}
 
-![Example plant fact card for Common Milkweed (*Asclepias syriaca*) (back). Source: Travis Flohr](images/plant_fact_card_a4_2.jpg){#fig-plant_fact_card_a4_2 fig-alt="" fig-align="center" width=100%}
+![Example plant fact card for Common Milkweed (*Asclepias syriaca*) (back). Source: Travis Flohr](images/plant_fact_card_a4_2.jpg){#fig-plant_fact_card_a4_2 fig-alt="Back of the plant identification card for Common Milkweed (Asclepias syriaca), detailing technical specifications for landscape design.
 
-![Example pollinator fact card for the Monarch Butterfly (*Danaus plexippus*) (front). Source: Travis Flohr](images/plant_fact_card_a4_3.jpg){#fig-plant_fact_card_a4_3 fig-alt="" fig-align="center" width=100%}
+The Attributes section lists a height of 3 feet to 5 feet and a width of 8 inches to 1 foot.
 
-![Example pollinator fact card for the Monarch Butterfly (*Danaus plexippus*) (back). Source: Travis Flohr](images/plant_fact_card_a4_4.jpg){#fig-plant_fact_card_a4_4 fig-alt="" fig-align="center" width=100%}
+Under Growing Conditions, it specifies USDA Hardiness Zones 3a to 9b, full sun light requirements, and moist soil. It accepts a wide range of soil textures including clay, loam (silt), sand, and shallow rocky soils, with a pH range of 4.8 to 6.8.
 
-![Example pollinator fact card for the Brown Belted Bumblebee (*Bombus griseocollis*) (front). Source: Travis Flohr](images/plant_fact_card_a4_5.jpg){#fig-plant_fact_card_a4_5 fig-alt="" fig-align="center" width=100%}
+The Landscape section notes it tolerates deer, drought, dry soil, erosion, and poor soil. It is recommended for naturalized areas and fits themes such as butterfly, native, and pollinator gardens. Its Play Value includes attractive flowers, ease of growth, fragrance, and serving as a wildlife food source and larval host. Problems to note are that it is weedy and poisonous to humans, cats, dogs, and horses.
 
-![Example pollinator fact card for the Brown Belted Bumblebee (*Bombus griseocollis*) (back). Source: Travis Flohr](images/plant_fact_card_a4_6.jpg){#fig-plant_fact_card_a4_6 fig-alt="" fig-align="center" width=100%}
+Finally, an Aesthetic Phenology chart indicates active blooming in June, July, and August, with no significant fall color or bark interest shown for any month." fig-align="center" width=100%}
+
+![Example pollinator fact card for the Monarch Butterfly (*Danaus plexippus*) (front). Source: Travis Flohr](images/plant_fact_card_a4_3.jpg){#fig-plant_fact_card_a4_3 fig-alt="Front of a species identification card for the Monarch butterfly (Danaus plexippus). The top half features three photographs illustrating its life stages: a caterpillar with distinct black, white, and yellow stripes on a green leaf; an adult butterfly with vibrant orange and black wings dotted with white, feeding on white flowers; and a smooth, bright green chrysalis hanging from a leaf.
+
+Below the images, the 'Type' is identified as Butterfly. The 'Habitat' section states it utilizes many open habitats including fields, meadows, weedy areas, marshes, and roadsides. The 'Life Cycle' section details that adults warm up by basking dorsally with wings open toward the sun, and females lay eggs singly under host leaves, which the caterpillars then eat along with the flowers. It also notes their massive migrations from August to October, flying thousands of miles to hibernate along the California coast and in central Mexico, stopping along the way to feed on flower nectar and roost together at night." fig-align="center" width=100%}
+
+![Example pollinator fact card for the Monarch Butterfly (*Danaus plexippus*) (back). Source: Travis Flohr](images/plant_fact_card_a4_4.jpg){#fig-plant_fact_card_a4_4 fig-alt="Back of the species identification card for the Monarch butterfly (Danaus plexippus), detailing ecological requirements for landscape planning.
+
+The 'Foraging' section lists caterpillar hosts as milkweeds, specifically noting common milkweed (Asclepias syriaca), swamp milkweed (A. incarnata), and showy milkweed (A. speciosa), as well as milkweed vine in the tropics. For adult hosts, it notes they rely on nectar from all milkweeds, but also require early-season flowers like dogbane, lilac, red clover, lantana, and thistles before milkweeds bloom. In the fall, adults visit composites including goldenrods, blazing stars, ironweed, and tickseed sunflower.
+
+The 'Nesting' section is marked as not applicable.
+
+Under 'Water Needs', a critical design constraint is noted: butterflies cannot land directly on deep open water like birdbaths or ponds to drink safely. Instead, they require damp mud, wet sand, or dew to extract vital salts and minerals.
+
+Finally, the 'Management Needs' section advises minimizing or eliminating pesticides and herbicides, and providing a diversity of nectar sources." fig-align="center" width=100%}
+
+![Example pollinator fact card for the Brown Belted Bumblebee (*Bombus griseocollis*) (front). Source: Travis Flohr](images/plant_fact_card_a4_5.jpg){#fig-plant_fact_card_a4_5 fig-alt="Front of a species identification card for the Brown Belted Bumblebee (Bombus griseocollis). The card features a close-up photograph of the fuzzy, yellow and black bee foraging on the prominent orange and brown central cone of a pink coneflower. Below the image, the 'Type' is identified as Bee. The 'Habitat' section highlights its high adaptability for various site conditions, noting it can occupy meadows, wetlands, agricultural fields, and urban areas, including densely populated cities. The 'Life Cycle' section provides seasonal activity data, stating that queens emerge in late spring with peak worker numbers occurring in July, and that new queens and drones are present from late June to September." fig-align="center" width=100%}
+
+![Example pollinator fact card for the Brown Belted Bumblebee (*Bombus griseocollis*) (back). Source: Travis Flohr](images/plant_fact_card_a4_6.jpg){#fig-plant_fact_card_a4_6 fig-alt="Back of the species identification card for the Brown Belted Bumblebee (Bombus griseocollis), outlining specific habitat and management requirements for landscape design.
+
+Under 'Foraging', caterpillar hosts are marked as not applicable. For adult hosts, it lists a wide variety of wildflowers from the sunflower, milkweed, pea, and mint families, specifically recommending coneflowers, black-eyed Susans, goldenrods, milkweeds, clovers, bush clovers, vetches, beebalm, wild bergamot, and horsemint.
+
+The 'Nesting' section notes they typically nest underground in abandoned rodent burrows, or on the surface in dense grass, compost piles, or thick leaf litter. 'Water Needs' indicates they generally do not require a dedicated standing water source.
+
+The 'Management Needs' section specifies they are 'short-tongued' bees that prefer shallow, open flowers. Crucial site management directives include retaining undisturbed bunchgrasses, rock piles, downed logs, and woody debris; leaving empty spaces beneath low-growing shrubs for shelter; eliminating pesticide and herbicide use; and retaining fallen leaves by avoiding leaf blowing." fig-align="center" width=100%}
 
 **Rubric**: 
 
