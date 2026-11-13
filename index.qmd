@@ -151,7 +151,7 @@ This studio addresses emerging professional expectations for performance-based, 
 - Design layered and ecologically robust planting systems that achieve net biodiversity gain.
 - Integrate plant–insect–pollinator-bird interactions into planting design.
 - Apply planting methods that ensure long-term landscape performance.
-- Evaluate and communicate landscape performance outcomes.
+- Evaluate and communicate landscape performance outcomes using experimental forms of AI image generation and other visual communication workflows.
 - Produce clear, persuasive client-facing and contractor graphics and narratives.
 
 ### LAAB Accreditation Alignment
@@ -165,6 +165,7 @@ Students will gain proficiency in:
 - Rhino for three-dimensional modeling
 - Twinmotion for real-time rendering and visualization
 - AutoCAD for planting plans and technical documentation
+- Hand rendering and drawing
 
 ## Course Structure 
 Learning theory strongly advises blending several approaches to build knowledge. As such we will interweave multiple learning formats: site visits, lectures, demonstrations, workshops, pin-ups, and one-on-one desk critiques. 
@@ -174,13 +175,12 @@ This course has one module, with multiple phases, details are provided below @tb
 
 ### Assignment Grade Details
 
-| Module                             | Value            |
+| Phase                             | Value            |
 |:-----------------------------------|:-----------------|
 | ***Phase I: Pollinator and Bird Life Cycle Mapping***  | 30 points        |
 | ***Phase II: Site Inventory & Analysis***              | 20 points        |
-| ***Phase III: Conceptual Design***                     | 40 points        |
-| ***Phase IV: Design Development***                     | 30 points        |
-| ***Phase V: Construction Documentation***              | 20 points        |
+| ***Phase III: Conceptual Design***                     | 60 points        |
+| ***Phase IV: Design Development and Construction Documentation***| 40 points        |
 | ***Total***                                            | ***150 points*** |
 
 : Outline of course modules and their associated point values. {#tbl-module_values}
